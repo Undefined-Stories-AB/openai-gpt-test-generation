@@ -34,4 +34,4 @@ ELX Deadmau5’s Tropical Fruits nutrition powder is pleasantly sweet without be
  <h2>Smell</h2> 
 When opening the packet, there is an inviting aroma of tropical fruits that wafts through the air. This smell doesn't just come from one fruit but rather a blend of many different ones making it quite unique and delightful!  
 
- <h2>Conclusion</h3 >Overall, I would definitely recommend ELX Deadmaus 5’s Tropical Fruits E-Sport Nutrition Powder if you are looking for something energising yet still tasty at the same time! The flavour profile is well balanced between sweet and sour notes which make for an enjoyable drinking experience every time - plus you get natural ingredients too so no need to worry about any nasty chemicals either!
+ <h2>Conclusion</h2 >Overall, I would definitely recommend ELX Deadmaus 5’s Tropical Fruits E-Sport Nutrition Powder if you are looking for something energising yet still tasty at the same time! The flavour profile is well balanced between sweet and sour notes which make for an enjoyable drinking experience every time - plus you get natural ingredients too so no need to worry about any nasty chemicals either!
