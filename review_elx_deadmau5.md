@@ -1,3 +1,17 @@
+_Prompt_:
+> Write a product review based on these notes:<br>
+  Type of Product: E-Sport Nutrition Powder
+> Product Name: ELX Deadmau5<br>
+> Product Flavour: Tropical Fruits<br>
+> Heading 1: Introduction<br>
+> Heading 2: Flavor Profile<br>
+> Heading 3: Sweet or Sour<br>
+> Heading 4: Smell<br>
+> Heading 5: Conclusion<br>
+> Use h2 tags for the headings.
+
+# Output
+
 <h2>Introduction</h2> 
 I recently had the pleasure of trying out ELX Deadmau5's Tropical Fruits E-Sport Nutrition Powder. I wanted to find out what this product was all about and if it lived up to its claims. In this review, I will share my experience with you! 
 
