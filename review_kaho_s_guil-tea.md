@@ -10,8 +10,8 @@
 ## _Prompt_
 > Write a product review based on these notes:<br>
 > Type of Product: E-Sport Nutrition Powder
-> Product Name: ELX Deadmau5<br>
-> Product Flavour: Tropical Fruits<br>
+> Product Name: Gamersupps Kaho's Guil-tea<br>
+> Product Flavour: Black Tea with Passion Fruit<br>
 > Heading 1: Introduction<br>
 > Heading 2: Flavor Profile<br>
 > Heading 3: Sweet or Sour<br>
