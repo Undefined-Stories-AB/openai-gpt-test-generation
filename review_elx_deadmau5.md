@@ -4,7 +4,7 @@
 
 ## Output
 
-<img src="https://user-images.githubusercontent.com/5329209/212089626-cc90832a-8c92-429c-b49f-8d0434990c7f.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/5329209/212089626-cc90832a-8c92-429c-b49f-8d0434990c7f.png" width="400"/>
 
 # Text
 
