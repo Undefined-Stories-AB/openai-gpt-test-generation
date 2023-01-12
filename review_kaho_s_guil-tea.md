@@ -9,7 +9,7 @@
 
 ## _Prompt_
 > Write a product review based on these notes:<br>
-  Type of Product: E-Sport Nutrition Powder
+> Type of Product: E-Sport Nutrition Powder
 > Product Name: ELX Deadmau5<br>
 > Product Flavour: Tropical Fruits<br>
 > Heading 1: Introduction<br>
