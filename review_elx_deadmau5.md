@@ -1,4 +1,14 @@
-_Prompt_:
+# Image
+## _Prompt_:
+> tropical fruits,not a product, no plastic,abstract,bokeh,high definition,blurry,studio lights
+
+## Output
+
+<img src="https://user-images.githubusercontent.com/5329209/212089626-cc90832a-8c92-429c-b49f-8d0434990c7f.png" width="200"/>
+
+# Text
+
+## _Prompt_:
 > Write a product review based on these notes:<br>
   Type of Product: E-Sport Nutrition Powder
 > Product Name: ELX Deadmau5<br>
@@ -10,8 +20,7 @@ _Prompt_:
 > Heading 5: Conclusion<br>
 > Use h2 tags for the headings.
 
-# Output
-<img src="https://user-images.githubusercontent.com/5329209/212089626-cc90832a-8c92-429c-b49f-8d0434990c7f.png" width="200"/>
+## Output
 
 <h2>Introduction</h2> 
 I recently had the pleasure of trying out ELX Deadmau5's Tropical Fruits E-Sport Nutrition Powder. I wanted to find out what this product was all about and if it lived up to its claims. In this review, I will share my experience with you! 
