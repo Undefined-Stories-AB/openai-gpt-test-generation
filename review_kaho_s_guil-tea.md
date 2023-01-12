@@ -17,7 +17,7 @@
 > Heading 3: Sweet or Sour<br>
 > Heading 4: Smell<br>
 > Heading 5: Conclusion<br>
-> Use h2 tags for the headings.
+> Use markdown syntax for headings.
 
 ## Output
 
